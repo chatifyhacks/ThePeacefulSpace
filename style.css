@@ -1,0 +1,8 @@
+a-sky {
+    -webkit-animation:name 2s infinite;
+}
+
+@-webkit-keyframes name {
+    0% {background-color:black;}
+    100% {background-color:white;}
+}
